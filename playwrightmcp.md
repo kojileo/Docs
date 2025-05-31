@@ -27,3 +27,10 @@ Playwright MCP Server は、Playwright を使用してブラウザ自動化機�
 
 ## まとめ
 この技術により、テストシナリオがUIに入出力しやすい形になっていれば、その内容をそのまま入力させてE2Eテストが実行できるのでは？
+
+## LangChain
+- LLMを用いたアプリケーション開発を効率的に行うためのpythonライブラリ。これを活用してMCPクライアントを実現。(これは、Github Copilotのチャットでもおそらく代替可能)
+- Playwright MCPはMicrosoftが開発したオープンソースのMCP。LLMがWebブラウザを操作できるように設計されています。
+
+## 参考資料
+- https://zenn.dev/asap/articles/59b8dd06d44754
